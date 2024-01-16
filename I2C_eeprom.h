@@ -8,7 +8,6 @@
 
 
 #include "Arduino.h"
-#include "Wire.h"
 
 
 #define I2C_EEPROM_VERSION          (F("1.8.2"))
